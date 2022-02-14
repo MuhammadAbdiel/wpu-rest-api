@@ -1,0 +1,23 @@
+[{
+        "nama": "Muhammad Abdiel Firjatullah",
+        "umur": 20,
+        "nim": "2031710156",
+        "lulus": false,
+        "hobby": ["Programming", "Gaming", "Olahraga"],
+        "pembimbing": {
+            "pembimbingSatu": "Sugani Markonah",
+            "pembimbingDua": "Balturi Nyutisu"
+        }
+    },
+    {
+        "nama": "Muhammad Abdiel Firjatullah",
+        "umur": 20,
+        "nim": "2031710156",
+        "lulus": false,
+        "hobby": ["Programming", "Gaming", "Olahraga"],
+        "pembimbing": {
+            "pembimbingSatu": "Sugani Markonah",
+            "pembimbingDua": "Balturi Nyutisu"
+        }
+    }
+]
